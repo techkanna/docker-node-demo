@@ -1,0 +1,1 @@
+<!-- docker buildx build --platform linux/arm64/v8 -t techkanna/demonode1.1 . -->
